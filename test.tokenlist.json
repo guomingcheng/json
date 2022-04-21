@@ -11,7 +11,7 @@
       "name": "Stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
-    "compound": {
+    "compound": {  
       "name": "Compound Finance",
       "description": "Tokens that earn interest on compound.finance"
     }
@@ -34,6 +34,17 @@
       "address": "0x8F711FAEFb6e1f1bf945430c6060a5659e658CC6",
       "symbol": "CHE",
       "name": "CHEToken",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+        "compound"
+      ]
+    },
+	 {
+      "chainId": 97,
+      "address": "0x24f36BA75952AF4EF8DfA7A4C33649aE5A1AcFbC",
+      "symbol": "GodboG",
+      "name": "GodboGToken",
       "decimals": 18,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
